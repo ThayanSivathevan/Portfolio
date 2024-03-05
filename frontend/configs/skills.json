@@ -1,0 +1,117 @@
+[
+    {
+        "skill": "express",
+        "thumbmail": "/skills/express.png",
+        "started": 2019
+    },
+    {
+        "skill": "react",
+        "thumbmail": "/skills/react.png",
+        "started": 2020
+    },
+    {
+        "skill": "nodejs",
+        "thumbmail": "/skills/nodejs.png",
+        "started": 2019
+    },
+    {
+        "skill": "mongodb",
+        "thumbmail": "/skills/mongodb.png",
+        "started": 2020
+    },
+    {
+        "skill": "html5",
+        "thumbmail": "/skills/html5.png",
+        "started": 2018
+    },
+    {
+        "skill": "css",
+        "thumbmail": "/skills/css.png",
+        "started": 2018
+    },
+    {
+        "skill": "typescript",
+        "thumbmail": "/skills/typescript.png",
+        "started": 2018
+    },
+    {
+        "skill": "golang",
+        "thumbmail": "/skills/golang.png",
+        "started": 2022
+    },
+    {
+        "skill": "tailwind",
+        "thumbmail": "/skills/tailwind.png",
+        "started": 2020
+    },
+    {
+        "skill": "rust",
+        "thumbmail": "/skills/rust.png",
+        "started": 2022
+    },
+    {
+        "skill": "aws",
+        "thumbmail": "/skills/aws.png",
+        "started": 2020
+    },
+    {
+        "skill": "gcp",
+        "thumbmail": "/skills/gcp.png",
+        "started": 2022
+    },
+    {
+        "skill": "git",
+        "thumbmail": "/skills/git.png",
+        "started": 2018
+    },    
+    {
+        "skill": "grpc",
+        "thumbmail": "/skills/grpc.png",
+        "started": 2022
+    },    
+    {
+        "skill": "java",
+        "thumbmail": "/skills/java.png",
+        "started": 2018
+    },    
+    {
+        "skill": "kubernetes",
+        "thumbmail": "/skills/kubernetes.svg",
+        "started": 2022
+    },    
+    {
+        "skill": "linux",
+        "thumbmail": "/skills/linux.png",
+        "started": 2020
+    },    
+    {
+        "skill": "mysql",
+        "thumbmail": "/skills/mysql.svg",
+        "started": 2020
+    },    
+    {
+        "skill": "nextjs",
+        "thumbmail": "/skills/nextjs.png",
+        "started": 2020
+    },    
+    {
+        "skill": "python",
+        "thumbmail": "/skills/python.png",
+        "started": 2018
+    },    
+    {
+        "skill": "qdrant",
+        "thumbmail": "/skills/qdrant.png",
+        "started": 2022
+    },    
+    {
+        "skill": "svelte",
+        "thumbmail": "/skills/svelte.png",
+        "started": 2022
+    },    
+    {
+        "skill": "ruby on rails",
+        "thumbmail": "/skills/ruby-on-rails.png",
+        "started": 2020
+    }
+]
